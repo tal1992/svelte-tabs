@@ -1,5 +1,1 @@
-let id = 1;
-
-export default function getId() {
-  return `svelte-tabs-${id++}`;
-}
+let id=1;export default function getId(){return`svelte-tabs-${id++}`}
