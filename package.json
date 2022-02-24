@@ -1,6 +1,6 @@
 {
   "name": "svelte-tabs-lite",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "svelte": "src/index.js",
   "module": "dist/index.mjs",
   "main": "dist/index.js",
